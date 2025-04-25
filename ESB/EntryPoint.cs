@@ -1,5 +1,4 @@
 ﻿using Raylib_cs;
-using static ESB.Tools;
 
 namespace ESB
 {
