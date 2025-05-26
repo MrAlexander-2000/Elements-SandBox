@@ -8,4 +8,5 @@
 <H2>Requirements:</H2>
 .NET 9: https://dotnet.microsoft.com/en-us/download/dotnet/9.0
 <hr>
+<H2>Licensing Information:</H2>
 <b><p>Licensed under the MIT License.</p></b>
